@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "220894206400",
+    "project_id": "gd6-c-0831",
+    "storage_bucket": "gd6-c-0831.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:220894206400:android:64ae5b260fbfeb11185025",
+        "android_client_info": {
+          "package_name": "com.wisnawa.gd6_c_0831"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "220894206400-oibobefvpkuop24qsjj0v1f9bns42rob.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbbuEZTgxKpgM7qxxL3WtYAHMtK3VqViI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "220894206400-oibobefvpkuop24qsjj0v1f9bns42rob.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
